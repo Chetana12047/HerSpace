@@ -99,10 +99,8 @@ UI & Animation
 
 * Lucide React Icons
 * Lottie Animations
-  
-📁 Project Structure
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```bash
 HerSpace/
