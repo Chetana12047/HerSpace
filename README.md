@@ -101,13 +101,18 @@ UI & Animation
 * Lottie Animations
   
 📁 Project Structure
+
+## 📁 Project Structure
+
+```bash
 HerSpace/
 │
-├── public/                 # Images & static assets
+├── public/                      # Images & static assets
 │
 ├── src/
+│   │
 │   ├── assets/
-│   │   └── lottie/         # Lottie animations
+│   │   └── lottie/             # Lottie wellness animations
 │   │
 │   ├── components/
 │   │   ├── chat-companion.tsx
@@ -127,11 +132,11 @@ HerSpace/
 │   │   └── app-context.tsx
 │   │
 │   ├── lib/
+│   │   ├── data.ts
 │   │   ├── firebase.ts
 │   │   ├── gemini.ts
 │   │   ├── storage.ts
-│   │   ├── utils.ts
-│   │   └── data.ts
+│   │   └── utils.ts
 │   │
 │   ├── App.tsx
 │   ├── main.tsx
@@ -139,10 +144,11 @@ HerSpace/
 │   └── vite-env.d.ts
 │
 ├── .gitignore
+├── index.html
 ├── package.json
 ├── tsconfig.json
-├── vite.config.ts
-└── index.html
+└── vite.config.ts
+```
 
 🌱 Future Scope
 
