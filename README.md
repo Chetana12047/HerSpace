@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="./her.png" width="800" alt="HerSpace Banner"/>
+  <img src="./her.png" width="825" alt="HerSpace Banner"/>
 
 </p>
 HerSpace 💖
