@@ -1,3 +1,8 @@
+<p align="center">
+
+  <img src="./her.png" alt="HerSpace Banner"/>
+
+</p>
 HerSpace 💖
 
 Your Soft AI Wellness Companion for Women
